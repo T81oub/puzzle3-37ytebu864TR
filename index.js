@@ -5,7 +5,7 @@ const thmasInputText = document.querySelector('#thmas-input-text');
 thmasButton.addEventListener('click', clickButton);
 
 function clickButton() {
-var URL = "https://docs.google.com/forms/d/e/1FAIpQLSeO33KADL7IbUscXWKkjlFYj5R5Uvz9VdbUeFjG" + thmasInputText.value + "1yJKVay7w/viewform?usp=sf_link";
+var URL = "https://t81oub.github.io/puzle4-135" + thmasInputText.value + "Uijd160087/";
 
 var win = window.open(URL, "_blank");
 }
